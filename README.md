@@ -3,3 +3,16 @@
 <p align="center">
   <img width="250" src="./skeleton.gif">
 </p>
+
+<p align="center">
+[![My WebSite](https://skillicons.dev/icons?i=devto)](https://linyers.com.ar)
+</p>
+
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=python,django,docker,linux,postman,js,ts,html,css,react,nextjs,tailwind)](https://skillicons.dev)
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
