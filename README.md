@@ -5,11 +5,15 @@
 </p>
 
 <p align="center">
-[![My WebSite](https://skillicons.dev/icons?i=devto)](https://linyers.com.ar)
+  <a href="https://linyers.com.ar">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
 </p>
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=python,django,docker,linux,postman,js,ts,html,css,react,nextjs,tailwind)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,docker,linux,postman,js,ts,html,css,react,nextjs,tailwind" />
+  </a>
 </p>
 
 <p align="center"><samp>
