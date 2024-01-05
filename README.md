@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linyers.com.ar" target="_blank">
+  <a href="https://linyers.com.ar" target="blank">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
